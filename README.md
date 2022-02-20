@@ -1,1 +1,1 @@
-# business-day
+# busday
